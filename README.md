@@ -1,7 +1,7 @@
 ![logo50890770a5b94 (2)](https://user-images.githubusercontent.com/11314278/138258059-75476c52-5258-41ec-99d0-c28ef429f163.png)
 
 ## Description
- It is an example of the web application "Taxi Service". Application shows information about drivers and their cars.It was created to show my knowledge in:
+ It is an example of the web application "Taxi Service". Application shows information about drivers and their cars. It was created to show my knowledge in:
 - Java Core
 - Java Web
 - OOP
