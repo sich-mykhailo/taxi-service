@@ -18,7 +18,7 @@ This is my first project. It is an example of the simple web application "Taxi S
   Tomcat (version 9.0.54)
   
 ## Run online version
-- You can go to the link and see how the application works
+- You can go to the [link](https://taxi-service13.herokuapp.com/) and see how the application works
 - Use standard login and password: 'driver' and 'driver' and check the workability of the application
 
 ## How to install
