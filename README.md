@@ -8,10 +8,6 @@
 - SOLID
 - JDBC
 
-## Run online version
-- You can go to the [link](https://taxi-service13.herokuapp.com/) and see how the application works
-- Use standard login and password: 'driver' and 'driver' and check the workability of the application
-
 ## Technologies
 - Java 11
 - MySQL
